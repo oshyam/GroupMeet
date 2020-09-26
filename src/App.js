@@ -34,7 +34,7 @@ function App() {
   return (
     <div className="App">
       <header>
-        <h1>⚛️🔥💬</h1>
+        <h1>👨‍💻ChatApp💬</h1>
         <SignOut />
       </header>
 
@@ -55,8 +55,12 @@ function SignIn() {
 
   return (
     <>
-      <button className="sign-in" onClick={signInWithGoogle}>Sign in with Google</button>
-      <p>Do not violate the community guidelines or you will be banned for life!</p>
+      <center><h2> 👨‍💻: <br/>
+      Login and Chat..Simple!</h2>
+      <p>Made for GroupChat..💬</p></center>
+      <button className="sign-in" onClick={signInWithGoogle}>Sign in with  Google</button>
+      <center><h3>Please Don't Spam and Respect or You'll be Blocked Forever.</h3>
+      <p>Made with ❤️ by<a href="https://www.instagram.com/shyamsinghrajput007/" target="_blank" > Shyam</a> </p></center>
     </>
   )
 
