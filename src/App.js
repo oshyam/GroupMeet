@@ -11,14 +11,7 @@ import { useCollectionData } from 'react-firebase-hooks/firestore';
 
 firebase.initializeApp({
   
-  apiKey: "AIzaSyCXV6js98yOm__esUk9ABX1hIRgESw4OjA",
-  authDomain: "groupmeet-8f846.firebaseapp.com",
-  databaseURL: "https://groupmeet-8f846.firebaseio.com",
-  projectId: "groupmeet-8f846",
-  storageBucket: "groupmeet-8f846.appspot.com",
-  messagingSenderId: "43916662840",
-  appId: "1:43916662840:web:15d605c338a7048c436ecd",
-  measurementId: "G-74R0368N07"
+  //your own config
 
 })
 
