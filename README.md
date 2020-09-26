@@ -6,4 +6,4 @@
 👋 [Connect with Me](https://www.instagram.com/shyamsinghrajput007/) 
 
 
-![Screenshot](chatapp.png)
+![Screenshot](ChatAppUI.png)
